@@ -26,13 +26,6 @@ I am an aspiring data engineer and developer passionate about building practical
 
 - **[Daily Foreign Exchange ETL Pipeline](https://github.com/AmonMK/Daily_Foreign_Exchange_ETL_Pipeline)**  
   *A modular Python ETL pipeline extracting FX rates from a REST API, performing transformations on JSON payloads, and appending structured records to CSV.*
-
-- **[EduGuide AI](https://github.com/AmonMK/eduguide-ai)**  
-  *An AI-powered early warning concept system for student performance tracking.*
-
-- **[Supply Chain Analytics System](https://github.com/AmonMK/Supply-chain-analytics-system-SCAS-)**  
-  *An exploratory project looking into data tracking and reporting for supply chain visibility.*
-
 ---
 
 ### 📫 Let's Connect
